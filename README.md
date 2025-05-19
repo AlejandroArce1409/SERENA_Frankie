@@ -18,4 +18,8 @@ Para hacer la prueba de Sign In es:
 
 Pero tambien se puede hacer un registro, a menara didactica los registros en la nube no se separaron por usuario para que pueda observar los valores ya por defecto sin importar la cuenta con la que se ingrese  
 
+
+Para poder descargar el apk es desde el apartado de Tag o desde el enlace de abajo
+
+SERENA V1.0.0 - https://github.com/AlejandroArce1409/SERENA_Frankie/releases/tag/APK
 - Fes Aragon UNAM Programacion Movil 2857 (2025-II)
